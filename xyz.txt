@@ -1,6 +1,0 @@
-"Welcome GIT"
-
-Welcome to S104 
-
-
-GIT Basics
